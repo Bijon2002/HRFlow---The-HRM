@@ -1,0 +1,2 @@
+# Middleware Folder
+Contains custom Express middleware (e.g., authentication, error handling, validation).
